@@ -1,6 +1,6 @@
 # Metro Stencil Cap
 
-<img src="assets/drawing.pdf" height="350" />
+<img src="assets/drawing.png" height="350" />
 <img src="assets/add.png" height="350" />
 
 3D-printable stencil cap for spray cans, for laying fine lines in detail work.
